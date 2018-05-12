@@ -1,0 +1,28 @@
+_repo: John-Inglesant--Volume-I-of-2-A-Romance_44587
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44587-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Shorthouse, J. H. (Joseph Henry)
+    alias: Shorthouse, Joseph Henry
+    birthdate: 1834
+    deathdate: 1903
+    gutenberg_agent_id: '36383'
+    url: http://www.gutenberg.org/2009/agents/36383
+description: ''
+gutenberg_issued: '2014-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Charles I, 1625-1649 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Religious fiction'
+title: 'John Inglesant: A Romance (Volume 1 of 2)'
+url: http://www.gutenberg.org/ebooks/44587
